@@ -8,13 +8,19 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
+
+
 for (i)
+
 
 1. import numpy and the lu func. from scipy.linalg.
 2. use eval(input()) to take the input matrix and convert it into a Numpy array
 3. apply the lu() func. to decompose the matrix into permutation(P), lower triangular(L) and upper triangular(U) matrices
 4. print the L and U matrices
+
+
 for (ii)
+
 
 1. import numpy and the lu_factor and lu_solve func.from the scipy.linalg.
 2. use eval(input()) to take the co-efficient matrix A and right-hand side vector (b)
